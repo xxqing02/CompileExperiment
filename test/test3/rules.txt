@@ -1,0 +1,14 @@
+E->+B
+E->-B
+E->B
+B->TG
+G->+TG
+G->-TG
+G->e
+T->FS
+S->*FS
+S->/FS
+S->e
+F->i
+F->n
+F->(B)

@@ -1,0 +1,17 @@
+var m, n, r, q;
+
+const var;
+{ 1a , m n mn = 20 }
+
+pRoCeDuRe gCd;
+    Begin
+        while R#0 do
+            begin
+                Q := M / N
+                ;
+                r := m - q * n;
+                m := n;
+                n := r;
+            END;
+        call gcd;
+    end;
